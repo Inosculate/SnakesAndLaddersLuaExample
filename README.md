@@ -1,2 +1,4 @@
 # SnakesAndLaddersLuaExample
-A repo with a full Lua terminal implementation of the famous Snakes and Ladders game.
+
+The code in this repository is designed to assist people with our [learning how to code in Lua](www.luascript.dev/blog/snakes-and-ladders) learning resource
+
